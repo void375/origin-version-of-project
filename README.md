@@ -1,1 +1,1 @@
-# origin-version-of-project
+начальная версия проекта
